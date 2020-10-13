@@ -1,4 +1,4 @@
-# ## [1.7.0](https://gitlab.com/roomle/web/roomle-pdc/compare/v1.6.1...v1.7.0) (2020-09-29)
+## [1.7.0](https://gitlab.com/roomle/web/roomle-pdc/compare/v1.6.1...v1.7.0) (2020-09-29)
 
 
 ### Features
